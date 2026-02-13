@@ -1,0 +1,13 @@
+title: <p align="center"> Varun Teja </p>
+
+logo: /assets/img/profile.jpg
+
+description:
+  <p align="center">
+  <a href="https://github.com/varunteja2017">GitHub</a>
+  <br>
+  Final Year B.E. CSE Student at CBIT.
+  Passionate about Software Development, Backend Systems and Scalable Applications.
+  </p>
+
+theme: jekyll-theme-minimal
